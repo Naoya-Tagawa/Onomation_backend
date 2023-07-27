@@ -46,6 +46,8 @@ openai==0.27.8
 orjson==3.9.2
 proto-plus==1.22.3
 protobuf==4.23.4
+fastapi==0.95.2
+uvicorn==0.22.0
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycparser==2.21
@@ -55,7 +57,7 @@ pydantic-settings==2.0.1
 pydantic_core==2.1.2
 PyJWT==2.7.0
 pyparsing==3.1.0
-python-dotenv==1.0.0
+python-dotenv==0.21.1
 python-multipart==0.0.6
 PyYAML==6.0
 requests==2.31.0
